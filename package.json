@@ -1,0 +1,19 @@
+{
+  "name": "week8-ts",
+  "version": "1.0.0",
+  "description": "Day 3 Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node ./dist/index.js"
+  },
+  "author": "Carlos Cordero",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@types/uuid": "^9.0.3",
+    "uuid": "^9.0.0"
+  }
+}
